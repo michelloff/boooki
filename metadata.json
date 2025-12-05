@@ -1,0 +1,5 @@
+{
+  "name": "Booki - Gestor Escolar",
+  "description": "Una plataforma intuitiva para bibliotecas de escuela primaria. Permite a encargados gestionar libros y usuarios, y a alumnos/docentes realizar préstamos y tomar quizzes educativos potenciados por IA.",
+  "requestFramePermissions": []
+}
